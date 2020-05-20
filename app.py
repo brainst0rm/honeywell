@@ -1,3 +1,4 @@
+import datetime
+name = "nishant"
 print("hello world")
-asdnsjakdhjkasdas
-dasnkdjashjdasd
+print("hello" + name)
